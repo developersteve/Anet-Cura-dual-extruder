@@ -1,4 +1,4 @@
-# Anet-Cura-dual-extruder
+# Anet Dual Extruder - Cura Profile
 Dual Extruder Cura settings for the Anet A8
 
 I couldnt find this anywhere so thought id put it here in case others need it. Its important to note these settings assume that the printer firmware deals with the dual nozzle offset.
